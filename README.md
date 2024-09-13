@@ -31,10 +31,15 @@
         <div class="image">
             <img src="gailpic.png" class="mypic">
         </div>
-    </section>
-    <section id="project">Project</section>
+   <section id="project">Project</section>
+    <h1>PicPerfect Python App</h1>
     <section id="education">Education</section>
+    I designed and developed an editor application with a team to cater to a <br> wide range of users
+looking to improve their photos.
+Contributed knowledge of Python image libraries and Tkinter in <br> PHINMA—University of Pangasinan
     <section id="skills">Skills</section>
+    <h1>Computer Programming</h1>
+    <h2>Graphic Designer</h2>
 
 <script src="portfolio.js"></script>
 </body>
